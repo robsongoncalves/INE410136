@@ -1,0 +1,19 @@
+{
+  "editor.inlineSuggest.enabled": true,
+  "editor.suggest.showWords": true,
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+  "editor.wordBasedSuggestionsMode": "allDocuments",
+  "files.associations": {
+    "*.tex": "latex"
+  },
+  "[latex]": {
+    "editor.defaultFormatter": "James-Yu.latex-workshop"
+  },
+  "latex-workshop.intellisense.package.enabled": true,
+  "latex-workshop.intellisense.unimathsymbols.enabled": true
+}

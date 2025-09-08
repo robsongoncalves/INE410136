@@ -1,0 +1,89 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{3}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[ur~Rahman et~al\mbox{.}(2022)]%
+        {Rahman2022}
+\bibfield{author}{\bibinfo{person}{Atta ur Rahman}, \bibinfo{person}{Dhiaa
+  Musleh}, \bibinfo{person}{Majed Nabil}, \bibinfo{person}{Haya Alubaidan},
+  \bibinfo{person}{Mohammed Gollapalli}, \bibinfo{person}{Gomathi Krishnasamy},
+  \bibinfo{person}{Dakheel Almoqbil}, \bibinfo{person}{Mohammad Aftab~Alam
+  Khan}, \bibinfo{person}{Mehwash Farooqui}, \bibinfo{person}{Mohammed
+  Imran~Basheer Ahmed}, \bibinfo{person}{Mohammed~Salih Ahmed}, {and}
+  \bibinfo{person}{Maqsood Mahmud}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Assessment of Information Extraction Techniques,
+  Models and Systems}.
+\newblock \bibinfo{journal}{\emph{Mathematical Modelling of Engineering
+  Problems}}  \bibinfo{volume}{9} (\bibinfo{date}{6} \bibinfo{year}{2022}),
+  \bibinfo{pages}{683--696}.
+\newblock
+Issue 3.
+\showISSN{23690747}
+\href{https://doi.org/10.18280/mmep.090315}{doi:\nolinkurl{10.18280/mmep.090315}}
+
+
+\bibitem[Xu et~al\mbox{.}(2024)]%
+        {Xu2024}
+\bibfield{author}{\bibinfo{person}{Derong Xu}, \bibinfo{person}{Wei Chen},
+  \bibinfo{person}{Wenjun Peng}, \bibinfo{person}{Chao Zhang},
+  \bibinfo{person}{Tong Xu}, \bibinfo{person}{Xiangyu Zhao},
+  \bibinfo{person}{Xian Wu}, \bibinfo{person}{Yefeng Zheng},
+  \bibinfo{person}{Yang Wang}, {and} \bibinfo{person}{Enhong Chen}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{title}{Large language models for generative information
+  extraction: a survey}.
+\newblock
+Issue 6.
+\showISSN{20952236}
+\href{https://doi.org/10.1007/s11704-024-40555-y}{doi:\nolinkurl{10.1007/s11704-024-40555-y}}
+
+
+\bibitem[Yang et~al\mbox{.}(2022)]%
+        {Yang2022}
+\bibfield{author}{\bibinfo{person}{Yang Yang}, \bibinfo{person}{Zhilei Wu},
+  \bibinfo{person}{Yuexiang Yang}, \bibinfo{person}{Shuangshuang Lian},
+  \bibinfo{person}{Fengjie Guo}, {and} \bibinfo{person}{Zhiwei Wang}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \bibinfo{title}{A Survey of Information Extraction Based on Deep
+  Learning}.
+\newblock
+Issue 19.
+\showISSN{20763417}
+\href{https://doi.org/10.3390/app12199691}{doi:\nolinkurl{10.3390/app12199691}}
+
+
+\end{thebibliography}
