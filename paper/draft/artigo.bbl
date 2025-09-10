@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{3}
+\begin{thebibliography}{4}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -84,6 +84,23 @@ Issue 6.
 Issue 19.
 \showISSN{20763417}
 \href{https://doi.org/10.3390/app12199691}{doi:\nolinkurl{10.3390/app12199691}}
+
+
+\bibitem[Zhou et~al\mbox{.}(2022)]%
+        {Zhou2022}
+\bibfield{author}{\bibinfo{person}{Shaowen Zhou}, \bibinfo{person}{Bowen Yu},
+  \bibinfo{person}{Aixin Sun}, \bibinfo{person}{Cheng Long},
+  \bibinfo{person}{Jingyang Li}, \bibinfo{person}{Haiyang Yu},
+  \bibinfo{person}{Jian Sun}, {and} \bibinfo{person}{Yongbin Li}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{A Survey on Neural Open Information Extraction:
+  Current Status and Future Directions}.
+\newblock  (\bibinfo{date}{6} \bibinfo{year}{2022}).
+\newblock
+\urldef\tempurl%
+\url{http://arxiv.org/abs/2205.11725}
+\showURL{%
+\tempurl}
 
 
 \end{thebibliography}

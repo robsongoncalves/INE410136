@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.7)  8 SEP 2025 10:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.7)  8 SEP 2025 11:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -940,30 +940,40 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 
 
 
-Overfull \hbox (4.44485pt too wide) in paragraph at lines 168--169
+Overfull \hbox (4.44485pt too wide) in paragraph at lines 175--176
 []\T1/LinuxLibertineT-TLF/m/n/9 (-20) Ambiente: con-fig-u-ra-coes do am-bi-ente, vari-aveis, es-pec da maquina 
  []
 
 Processing 'acks' comment.
+Underfull \vbox (badness 5862) has occurred while \output is active []
+
+
+
+[1.1{C:/Users/robso/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/robso/AppData/Roaming/MiKTeX/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{C:/Users/robso/AppData/Roaming/MiKTeX/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}
+
+{C:/Users/robso/AppData/Roaming/MiKTeX/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{C:/Users/robso/AppData/Roaming/MiKTeX/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{C:/Users/robso/AppData/Roaming/MiKTeX/fonts/enc/dvips/libertine/lbtn_naooyc.enc}]
 \openout3 = `comment.cut'.
 
  Comment 'acks' writing to comment.cut. Straight input of comment.cut. (comment.cut) (artigo.bbl)
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 207.
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 214.
 
 
 
 
-Package balance Warning: You have called \balance in second column
-(balance)                Columns might not be balanced.
 
-(C:\Users\robso\AppData\Roaming\MiKTeX\tex/generic/stringenc\se-pdfdoc.def
+
+Overfull \vbox (1.40202pt too high) has occurred while \output is active []
+
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 214.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 214.
+ (C:\Users\robso\AppData\Roaming\MiKTeX\tex/generic/stringenc\se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (C:\Users\robso\AppData\Roaming\MiKTeX\tex/generic/stringenc\se-utf8.def
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-) [1.1{C:/Users/robso/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/robso/AppData/Roaming/MiKTeX/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{C:/Users/robso/AppData/Roaming/MiKTeX/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}
-
-{C:/Users/robso/AppData/Roaming/MiKTeX/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{C:/Users/robso/AppData/Roaming/MiKTeX/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{C:/Users/robso/AppData/Roaming/MiKTeX/fonts/enc/dvips/libertine/lbtn_naooyc.enc}] (artigo.aux)
+) [2.2] (artigo.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
@@ -972,17 +982,17 @@ Package rerunfilecheck Info: File `artigo.out' has not changed.
 (rerunfilecheck)             Checksum: F660B37A8224A5F496B3B5472A03815D;984.
  ) 
 Here is how much of TeX's memory you used:
- 21215 strings out of 468133
- 341420 string characters out of 5440780
- 850045 words of memory out of 5000000
- 49058 multiletter control sequences out of 15000+600000
- 753308 words of font info for 263 fonts, out of 8000000 for 9000
+ 21262 strings out of 468133
+ 342492 string characters out of 5440780
+ 914005 words of memory out of 5000000
+ 49067 multiletter control sequences out of 15000+600000
+ 766225 words of font info for 286 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 90i,11n,131p,1050b,650s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/robso/AppData/Roaming/MiKTeX/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/Users/robso/AppData/Roaming/MiKTeX/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/robso/AppData/Roaming/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/robso/AppData/Roaming/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on artigo.pdf (1 page, 333029 bytes).
+ 90i,12n,131p,1050b,777s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/robso/AppData/Roaming/MiKTeX/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Users/robso/AppData/Roaming/MiKTeX/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/Users/robso/AppData/Roaming/MiKTeX/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/robso/AppData/Roaming/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/robso/AppData/Roaming/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb>
+Output written on artigo.pdf (2 pages, 385939 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 69713 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 110 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
+ 75857 words of extra memory for PDF output out of 89155 (max. 10000000)
 

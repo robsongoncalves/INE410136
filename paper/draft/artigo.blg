@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: artigo.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+The style file: ACM-Reference-Format.bst
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Database file #1: sample-base.bib
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Warning--no journal in Zhou2022
+Warning--no number and no volume in Zhou2022
+Warning--page numbers missing in both pages and numpages fields in Zhou2022
+You've used 4 entries,
+            6273 wiz_defined-function locations,
+            1706 strings with 21469 characters,
+and the built_in function-call counts, 4961 in all, are:
+= -- 537
+> -- 316
+< -- 0
++ -- 116
+- -- 108
+* -- 486
+:= -- 595
+add.period$ -- 18
+call.type$ -- 4
+change.case$ -- 52
+chr.to.int$ -- 4
+cite$ -- 7
+duplicate$ -- 317
+empty$ -- 228
+format.name$ -- 124
+if$ -- 1065
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 8
+newline$ -- 82
+num.names$ -- 28
+pop$ -- 134
+preamble$ -- 1
+purify$ -- 84
+quote$ -- 0
+skip$ -- 118
+stack$ -- 0
+substring$ -- 274
+swap$ -- 23
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 92
+warning$ -- 3
+while$ -- 14
+width$ -- 0
+write$ -- 120
+(There were 3 warnings)

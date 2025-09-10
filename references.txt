@@ -1,0 +1,15 @@
+Sapient.inc:
+    - Github:
+        https://github.com/sapientinc/HRM
+
+Tarive:
+
+    - Huggingface:
+        https://huggingface.co/spaces/Tarive/HRM-anchoring-bias-model
+    - Github:
+        https://github.com/Tar-ive/hrm_finetuning
+
+HRM-Text:
+
+    - Github:
+        https://github.com/qingy1337/HRM-Text

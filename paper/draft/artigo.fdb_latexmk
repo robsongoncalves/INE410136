@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex artigo"] 0 "artigo.aux" "artigo.bbl" "artigo" 1757339203.42788 -1
+["bibtex artigo"] 1757340403.7992 "artigo.aux" "artigo.bbl" "artigo" 1757340406.07733 0
   "./ACM-Reference-Format.bst" 1757260306 93560 12e0ced1522ea2bfa9b2fb12855c7e9e ""
-  "./sample-base.bib" 1757337143 55149 32b088cd5a9cfafaa11fb49f96f60018 ""
-  "artigo.aux" 1757339202 1533 2fd89094a394dd1901416ad8e784fb97 "pdflatex"
+  "./sample-base.bib" 1757340096 56432 ff70b472eb420740d22be2f8ea7a2f04 ""
+  "artigo.aux" 1757340405 1611 3b34a6a7598db9052669f35a6a3d3ddf "pdflatex"
   (generated)
   "artigo.bbl"
   "artigo.blg"
   (rewritten before read)
-["pdflatex"] 1757339201.43905 "c:/dev/github/doutorado/paper-INE410136/artigo/artigo.tex" "artigo.pdf" "artigo" 1757339203.42835 0
+["pdflatex"] 1757340404.07822 "c:/dev/github/doutorado/paper-INE410136/artigo/artigo.tex" "artigo.pdf" "artigo" 1757340406.07794 0
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecrm0900.tfm" 993062120 3156 6d4f5755d77638125f6f89de4f3bb757 ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ectt1000.tfm" 993062340 1348 d70ddf2d5d512b838e50a335e385e919 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -70,6 +70,7 @@
   "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/enc/dvips/libertine/lbtn_7grukw.enc" 1497089888 2934 a4a9158faed2e9e89c771b4e3b7fc12f ""
   "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/enc/dvips/libertine/lbtn_naooyc.enc" 1497089888 3357 5261ce65ba03aef9faf6135657b9abb6 ""
   "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/enc/dvips/libertine/lbtn_nh77jq.enc" 1497089888 2933 8d808fcabf70c6c809bb14c283ece4da ""
+  "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/tfm/public/libertine/LinBiolinumT-tlf-t1--base.tfm" 1732620802 1744 9486ddc64e90094bbb83f53a83b0e415 ""
   "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/tfm/public/libertine/LinBiolinumT-tlf-t1.tfm" 1732620802 19548 768852037f39958c435d71846b8877ea ""
   "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/tfm/public/libertine/LinBiolinumTB-tlf-t1--base.tfm" 1732620802 1768 23aace73e6def3193d6e0453af90487b ""
   "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/tfm/public/libertine/LinBiolinumTB-tlf-t1.tfm" 1732620802 19416 aedd2db224ad278ddf2c411f52d86014 ""
@@ -93,10 +94,12 @@
   "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/tfm/public/newtx/nxlmi5.tfm" 1736607165 3308 547f06fb56819535c1e0ce385c4f647b ""
   "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/tfm/public/newtx/nxlmi7.tfm" 1736607165 3320 6cf9c990505795806c1f3ac537f356c3 ""
   "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/tfm/public/newtx/nxlmia.tfm" 1736607165 2616 0bf54bdee01e38e3ed8342d25e5584f6 ""
+  "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/type1/public/libertine/LinBiolinumT.pfb" 1497089889 548786 4d0a934140d5c6e42930030a6225e8d6 ""
   "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/type1/public/libertine/LinBiolinumTB.pfb" 1497089889 687959 d08b15f5c3ccd205dc84645998fa63bb ""
   "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/type1/public/libertine/LinLibertineT.pfb" 1497089889 614791 d8dc0bdea92a3db7682402cda70ec199 ""
   "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb" 1497089889 538965 c5f7f11a7c6a7978c8500457bfcd2138 ""
   "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb" 1497089889 490980 a252c644e887b4e2fc664c31f1402303 ""
+  "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/vf/public/libertine/LinBiolinumT-tlf-t1.vf" 1732620847 1728 e76e04a950024a95b620698b679c9810 ""
   "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/vf/public/libertine/LinBiolinumTB-tlf-t1.vf" 1732620847 1728 4ae633ddccb76ba8d0a0906a5e2e8fdf ""
   "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf" 1732620847 1728 58c30b3c2a148b5042bfabf244389b2f ""
   "C:/Users/robso/AppData/Roaming/MiKTeX/fonts/vf/public/libertine/LinLibertineT-tlf-ts1.vf" 1732620847 640 79c7e833e2c27e0c28913386ebce9f12 ""
@@ -171,12 +174,12 @@
   "C:/Users/robso/AppData/Roaming/MiKTeX/tex/latex/upquote/upquote.sty" 1335534756 1088 517e01cde97c1c0baf72e69d43aa5a2e ""
   "C:/Users/robso/AppData/Roaming/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "acmart.cls" 1757260306 122400 54cc4edcc7b9cb1bf0a23c528626957c ""
-  "artigo.aux" 1757339202 1533 2fd89094a394dd1901416ad8e784fb97 "pdflatex"
-  "artigo.bbl" 1757337166 3949 7e4db8c9bd1d4049b06b5a269e746ada "bibtex artigo"
-  "artigo.out" 1757339202 984 f660b37a8224a5f496b3b5472a03815d "pdflatex"
-  "artigo.tex" 1757339200 7423 5a90fff398b10124eab8e3466277fff4 ""
-  "c:/dev/github/doutorado/paper-INE410136/artigo/artigo.tex" 1757339200 7423 5a90fff398b10124eab8e3466277fff4 ""
-  "comment.cut" 1757339202 64 0754424945249fbfae64d8991d811e64 "pdflatex"
+  "artigo.aux" 1757340405 1611 3b34a6a7598db9052669f35a6a3d3ddf "pdflatex"
+  "artigo.bbl" 1757340404 4583 8fa7149bd5d633353b06ea3331d382fd "bibtex artigo"
+  "artigo.out" 1757340405 984 f660b37a8224a5f496b3b5472a03815d "pdflatex"
+  "artigo.tex" 1757340398 8695 9cc4cfc292b216d7a94bd739de582501 ""
+  "c:/dev/github/doutorado/paper-INE410136/artigo/artigo.tex" 1757340398 8695 9cc4cfc292b216d7a94bd739de582501 ""
+  "comment.cut" 1757340405 64 0754424945249fbfae64d8991d811e64 "pdflatex"
   (generated)
   "artigo.aux"
   "artigo.log"
